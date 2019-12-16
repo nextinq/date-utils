@@ -1,10 +1,11 @@
 {
   "name": "@nextinq/date-utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Luxon date utils",
   "main": "lib/index.js",
   "files": [
-    "lib/**"
+    "lib/**",
+    "src/**"
   ],
   "repository": "git@github.com:nextinq/date-utils",
   "author": "Josef Karamon <josef.karamon@gmail.com>",
