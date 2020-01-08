@@ -1,6 +1,6 @@
-# ts-npm-boilerplate
+# date-utils
 
-Typescript npm boileplate
+Luxon date utils 
 
 ## Install
 
@@ -8,6 +8,9 @@ Typescript npm boileplate
 yarn
 ```
 
+## Usage
+
+See tests
 
 ## Test
 
