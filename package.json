@@ -1,6 +1,6 @@
 {
-  "name": "@nextinq/date-utils",
-  "version": "1.0.1",
+  "name": "@nextinq.public/date-utils",
+  "version": "1.0.2",
   "description": "Luxon date utils",
   "main": "lib/index.js",
   "files": [
